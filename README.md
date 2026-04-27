@@ -1,2 +1,1 @@
-# FromWoodToWow
-From Wood to Wow website
+From Wood to Wow

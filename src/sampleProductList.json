@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Garden bench",
+    "price": "$50",
+    "description": "a cool bench"
+  },
+  {
+    "id": 2,
+    "title": "Wishing Well",
+    "price": "$100",
+    "description": "a cool well for your garden"
+  }
+]

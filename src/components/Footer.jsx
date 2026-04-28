@@ -32,7 +32,7 @@ const Footer = () => {
         <BottomNavigationAction
           label="Contact Us"
           icon={<EmailIcon />}
-          onClick={() => handleExternalLink("https://www.facebook.com")}
+          onClick={() => handleExternalLink("https://www.gmail.com")}
         />
       </BottomNavigation>
     </Box>

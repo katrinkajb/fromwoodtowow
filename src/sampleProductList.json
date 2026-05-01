@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "title": "Garden bench",
-    "price": "$50",
-    "description": "a cool bench",
+    "title": "Garden Bridge",
+    "price": "$85-$150",
+    "description": "Add a touch of rustic charm to your garden or outdoor space with this locally handcrafted planter box. Measuring 5 ft long, 21 inches wide, and 21 inches high, it's the perfect size for a beautiful decorative feature. Built from locally sourced Douglas fir and pine, this sturdy piece is made to last and brings natural warmth to any landscape. Whether you're sprucing up your yard or creating a cozy garden nook, this planter is both functional and full of character.",
     "mainImage": "../../public/images/bridge/bridge1.jpg",
     "photoArray": [
       "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
@@ -13,9 +13,117 @@
   },
   {
     "id": 2,
-    "title": "Garden bench",
+    "title": "Jeep Planter/Dog Bed",
+    "price": "$325-$400",
+    "description": "Built from cedar and pine and measuring 5 feet long, this handcrafted Jeep planter is ready to roll into your garden—or your living room. Use it as a bold planter, a quirky dog bed, or whatever your imagination can dream up. No license required—just a love for fun and one-of-a-kind pieces.",
+    "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+    "photoArray": [
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pine Wishing Well",
+    "price": "$85-$150",
+    "description": "Make a little magic in your yard with this handcrafted pine wishing well! Standing 4 feet tall with a 10-inch base and an open bottom, it's perfect for flowers, ferns, fairy gardens—or just adding a bit of old-fashioned charm to your landscaping. Great for gardeners, dreamers, and anyone who thinks yards should have a little personality.",
+    "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+    "photoArray": [
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Butterfly Planter",
+    "price": "$225-$300",
+    "description": "Add a whimsical touch to your garden with this handcrafted Butterfly Planter, made locally from cedar and pine. Standing 36 inches tall, it features a spacious planter box (42 inches L x 16 inches W x 10 inches T) perfect for flowers, herbs, or decorative displays. Pictured is the beautifully painted two-tone version, available for $300. Prefer a natural look? The raw (unpainted/unstained) option is available for $225. Each piece is built with care, making it a charming and durable addition to any outdoor space.",
+    "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+    "photoArray": [
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Wooden Trees",
+    "price": "$30-$70",
+    "description": "Add a touch of rustic charm to your home or yard with our handcrafted wooden trees, made from sustainably sourced cedar and built to last season after season. Available in three sizes: 33 inches tall (large). 27 inches tall (medium). 23 inches tall (small). Each tree comes in your choice of finish: Natural cedar (no finish), Painted white, red, or green (additional cost for painted options +$20 large, +$15 medium, +$10 small). Whether you display them indoors or outdoors, our wooden trees make a beautiful addition to holiday décor, porch displays, or garden spaces. Handcrafted in our home, for yours. Care and Safety Tip: Keep trees away from open flames, and if displaying outdoors, we recommend applying a clear coat finish each year to help preserve the wood and color.",
+    "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+    "photoArray": [
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Large Bridge",
+    "price": "$360",
+    "description": "This handcrafted wooden bridge is built to last, made from durable Douglas fir and pine for both strength and natural charm. Measuring 8 feet long, 34 inches tall, and 24 inches wide, it's a beautiful and sturdy addition to any yard or garden. Whether used as a decorative feature over a dry creek bed, pathway, or landscaping element, this bridge adds a touch of rustic elegance to your outdoor space. It comes raw and unfinished, giving you the freedom to stain, paint, or seal it to match your style. **Note:** While the bridge is built to support foot traffic, it is intended for decorative use in landscaping settings. Always ensure proper installation and placement on level ground if used for light walking.",
+    "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+    "photoArray": [
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Large Wishing Well",
+    "price": "$175-$220",
+    "description": "Bring timeless charm to your garden with this handcrafted large wishing well, made from durable Douglas fir and pine. Standing 4 feet tall with an open bottom, it's perfect as a decorative focal point or a unique planter. Available in a natural raw (unpainted/unstained) finish or fully painted to match your style. Custom colors and sizes are also available to perfectly fit your outdoor space. A beautiful blend of craftsmanship and character—made locally, made to last.",
+    "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+    "photoArray": [
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Rustic Planter",
+    "price": "$45-$60",
+    "description": "Handmade from cedar and pine, this 10 inch x 14 inch raw wooden planter is ready for whatever you dream up—stain it, paint it, or leave it natural. Great for flowers, herbs, or adding rustic vibes to any space. It's simple, sturdy, and full of potential—just like your garden.",
+    "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+    "photoArray": [
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Windmill",
+    "price": "$180",
+    "description": "This handcrafted wooden windmill is made locally from a mix of cedar and pine, giving it a natural, rustic look that fits beautifully in any outdoor space. Measuring 24 inches wide, 24 inches long, and 40 inches tall, it's a striking garden accent whether left raw or finished. Each piece comes unfinished and ready for your personal touch—custom paint and stain options are also available to match your style.",
+    "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+    "photoArray": [
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Hanging Lantern",
     "price": "$50",
-    "description": "a cool bench",
+    "description": "This rustic wooden lantern combines timeless cedar craftsmanship with modern LED lighting for a warm, welcoming glow. Each lantern is hand-cut, sanded, and assembled in our backyard workshop in Tacoma, WA— no two are exactly alike. Features: Dimensions: Approx. 6.5 inch W x 6.5 inch D x 15 inc H (with hanger),Includes a solar-powered LED light for safe, soft illumination,Hanging hook + rope included - ready to display instantly, Indoor/Outdoor friendly — cedar is naturally weather-resistant, but we recommend applying a clear wood sealer annually for longest life, Each piece may have unique grain patterns or knots — natural variations that make your lantern one-of-a-kind. Safety Reminder: Do not use real candles or open flames. This lantern is designed for LED or solar lights only.",
+    "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+    "photoArray": [
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
+      "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Jack-O'-Lantern Boxes",
+    "price": "$20",
+    "description": "Handcrafted with love (and a bit of sawdust) in Tacoma, WA. Each wooden jack-o'-lantern is made from solid cedar and carved by hand, giving every pumpkin its own unique grin and rustic charm. Perfect for adding cozy fall vibes to your porch, shelf, or tabletop — day or night.Features: Dimensions: Approx. 6.5 inc H x 5 inch W x 4.5 inch D, Available styles: Removable Lid or Hanging Handle, Fits a standard battery LED tealight or fairy lights (not included), Indoor/Outdoor friendly — cedar is naturally weather-resistant, but for outdoor display we recommend applying a clear wood sealer to help it last season after season, Made from real wood, so every grain pattern, knot, or color tone is one-of-a-kind. Natural Character: Because we work with real cedar, you may notice small knots, grain variations, or natural marks in the wood. These aren't flaws — they're part of the story of the tree and what makes every piece beautifully unique. Pumpkin Personality: We know everyone has a favorite — happy, spooky, or classic! After your purchase, we'll reach out to confirm your preferred style. Please note selection is from the pumpkin faces shown in the photos/listing, and exact expressions may vary slightly since each one is hand-cut. Safety First: These are made of real wood — do not use real candles, flames, or anything that produces heat inside. They're designed for battery-powered LED lights only to keep your glow safe and worry-free.",
     "mainImage": "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",
     "photoArray": [
       "https://thecharmingbenchcompany.com/cdn/shop/products/cedar-garden-bench-garden-bench-37917560373474_5000x.jpg?v=1660662584",

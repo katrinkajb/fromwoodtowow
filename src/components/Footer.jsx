@@ -13,26 +13,46 @@ const Footer = () => {
     <Box
       sx={{
         width: "100%",
-        backgroundColor: "black",
         textAlign: "center",
         marginTop: "auto",
+        flexGrow: 1,
       }}
     >
-      <BottomNavigation showLabels>
+      <BottomNavigation
+        showLabels
+        sx={{
+          width: "100%",
+          backgroundColor: "green",
+          textAlign: "center",
+          marginTop: "auto",
+          flexGrow: 1,
+        }}
+      >
         <BottomNavigationAction
           label="Instagram"
           icon={<InstagramIcon />}
-          onClick={() => handleExternalLink("https://www.instagram.com")}
+          onClick={() =>
+            handleExternalLink("https://www.instagram.com/fromwoodtowow")
+          }
         />
         <BottomNavigationAction
           label="Facebook"
           icon={<FacebookIcon />}
-          onClick={() => handleExternalLink("https://www.facebook.com")}
+          onClick={() =>
+            handleExternalLink(
+              "https://www.facebook.com/profile.php?id=61579155818256",
+            )
+          }
+        />
+        <BottomNavigationAction
+          label="TikTok"
+          icon={<EmailIcon />} //Find icon
+          onClick={() => handleExternalLink("fromwoodtowow@gmail.com")}
         />
         <BottomNavigationAction
           label="Contact Us"
           icon={<EmailIcon />}
-          onClick={() => handleExternalLink("https://www.gmail.com")}
+          onClick={() => handleExternalLink("fromwoodtowow@gmail.com")}
         />
       </BottomNavigation>
     </Box>

@@ -37,6 +37,16 @@ export default function MenuDrawer({ open, setOpen }) {
             <ListItemText primary={"About Us"} />
           </ListItemButton>
         </ListItem>
+        <ListItem key={"Custom Builds"} disablePadding>
+          <ListItemButton onClick={() => handleNavigation("/custom")}>
+            <ListItemText primary={"Custom Builds"} />
+          </ListItemButton>
+        </ListItem>
+        <ListItem key={"FAQs"} disablePadding>
+          <ListItemButton onClick={() => handleNavigation("/faqs")}>
+            <ListItemText primary={"FAQs"} />
+          </ListItemButton>
+        </ListItem>
       </List>
     </Box>
   );

@@ -1,25 +1,27 @@
 import ProductCard from "./ProductCard.jsx";
 import sampleProductList from "../sampleProductList.json";
+import { Grid } from "@mui/material";
 
 const ProductList = () => {
   const products = sampleProductList;
   return (
-    <div className="container mt-8 mx-auto px-4 dark:bg-slate-800">
-      <div
-        className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mt-4"
-        data-test="product-list-container"
-      >
-        {products.map((product) => (
+    <Grid
+      container
+      spacing={4}
+      columns={{ xs: 4, sm: 6, md: 8 }}
+      sx={{ justifyContent: "center", alignItems: "center" }}
+    >
+      {products.map((product) => (
+        <Grid key={product.id}>
           <ProductCard
-            key={product.id}
             id={product.id}
             title={product.title}
             price={product.price}
-            image={product.image}
+            mainImage={product.mainImage}
           />
-        ))}
-      </div>
-    </div>
+        </Grid>
+      ))}
+    </Grid>
   );
 };
 

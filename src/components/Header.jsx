@@ -14,8 +14,15 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="static">
+    <Box
+      sx={{
+        width: "100%",
+        textAlign: "center",
+        marginTop: "auto",
+        flexGrow: 1,
+      }}
+    >
+      <AppBar position="static" sx={{ backgroundColor: "green" }}>
         <Toolbar>
           <IconButton
             size="large"
@@ -31,9 +38,9 @@ const Header = () => {
           <Typography variant="h4" component="div" sx={{ flexGrow: 1 }}>
             From Wood to Wow
           </Typography>
-          <Typography variant="subtitle2" gutterBottom>
+          {/* <Typography variant="subtitle2" gutterBottom>
             Handcrafted, wow-worthy pieces for your home and yard.
-          </Typography>
+          </Typography> */}
           <ShoppingCartIcon />
         </Toolbar>
       </AppBar>

@@ -3,6 +3,22 @@ import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css'; */
 
+Color palette:÷ .dk-brown {
+  background: #734444;
+}
+
+.red-brown {
+  background: #c37857;
+}
+
+.beige {
+  background: #eeedbe;
+}
+
+.green {
+  background: #99b27f;
+}
+
 .App {
   text-align: center;
   display: grid;

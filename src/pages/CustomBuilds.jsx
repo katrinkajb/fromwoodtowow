@@ -1,33 +1,21 @@
 import Header from "../components/Header";
-import ProductList from "../components/ProductList";
 import Footer from "../components/Footer";
 import Typography from "@mui/material/Typography";
 
-export default function Home() {
+export default function CustomBuilds() {
   return (
     <div className="App">
       <div>
         <Header />
       </div>
-      <div
-        style={{
-          flex: 1,
-          padding: "2%",
-          // justifyContent: "center",
-          // alignItems: "center",
-          // display: "flex",
-        }}
-      >
-        <Typography variant="h2" component="div" sx={{ flexGrow: 1 }}>
-          From Wood to Wow
-        </Typography>
-        <Typography sx={{ flexGrow: 1 }}>
-          We transform wood into handcrafted, wow-worthy pieces for your home,
-          yard, and every season.
-        </Typography>
-      </div>
       <div style={{ flex: 1, padding: "2%" }}>
-        <ProductList />
+        <Typography variant="h2" component="div" sx={{ flexGrow: 1 }}>
+          Custom Builds
+        </Typography>
+        <Typography>
+          Most garden pieces are ready in 7-10 days. Larger custom requests may
+          take longer, but we'll keep you updated along the way.
+        </Typography>
       </div>
       <div
         style={{

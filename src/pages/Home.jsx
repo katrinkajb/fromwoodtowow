@@ -2,6 +2,7 @@ import Header from "../components/Header";
 import ProductList from "../components/ProductList";
 import Footer from "../components/Footer";
 import Typography from "@mui/material/Typography";
+import "../App.css";
 
 export default function Home() {
   return (
@@ -10,24 +11,24 @@ export default function Home() {
         <Header />
       </div>
       <div
+        className="light-beige"
         style={{
           flex: 1,
           padding: "2%",
-          // justifyContent: "center",
-          // alignItems: "center",
-          // display: "flex",
         }}
       >
-        <Typography variant="h2" component="div" sx={{ flexGrow: 1 }}>
+        {/* <Typography variant="h2" component="div" sx={{ flexGrow: 1 }}>
           From Wood to Wow
-        </Typography>
-        <Typography sx={{ flexGrow: 1 }}>
-          We transform wood into handcrafted, wow-worthy pieces for your home,
-          yard, and every season.
-        </Typography>
-      </div>
-      <div style={{ flex: 1, padding: "2%" }}>
-        <ProductList />
+        </Typography> */}
+        <div>
+          <Typography sx={{ flexGrow: 1 }}>
+            We transform wood into handcrafted, wow-worthy pieces for your home,
+            yard, and every season!
+          </Typography>
+        </div>
+        <div style={{ flex: 1, padding: "2%" }}>
+          <ProductList />
+        </div>
       </div>
       <div
         style={{

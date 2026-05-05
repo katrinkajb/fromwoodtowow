@@ -3,7 +3,7 @@ import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css'; */
 
-Color palette:÷ .dk-brown {
+Color palette .dk-brown {
   background: #734444;
 }
 
@@ -19,7 +19,7 @@ Color palette:÷ .dk-brown {
   background: #99b27f;
 }
 
-.App {
+/* .App {
   text-align: center;
   display: grid;
   grid-template-rows: auto 1fr auto;
@@ -45,4 +45,4 @@ Color palette:÷ .dk-brown {
 
 .App-link {
   color: #61dafb;
-}
+} */

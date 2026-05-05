@@ -9,6 +9,7 @@ import IconButton from "@mui/material/IconButton";
 import MenuIcon from "@mui/icons-material/Menu";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import MenuDrawer from "./MenuDrawer";
+import "../App.css";
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -22,7 +23,7 @@ const Header = () => {
         flexGrow: 1,
       }}
     >
-      <AppBar position="static" sx={{ backgroundColor: "green" }}>
+      <AppBar position="static" className="red-brown">
         <Toolbar>
           <IconButton
             size="large"

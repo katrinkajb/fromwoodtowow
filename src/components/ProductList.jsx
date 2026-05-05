@@ -1,9 +1,10 @@
 import ProductCard from "./ProductCard.jsx";
-import sampleProductList from "../sampleProductList.json";
+import productList from "../productList.json";
 import { Grid } from "@mui/material";
 
-const ProductList = () => {
-  const products = sampleProductList;
+export default function ProductList() {
+  const products = productList;
+
   return (
     <Grid
       container
@@ -23,6 +24,4 @@ const ProductList = () => {
       ))}
     </Grid>
   );
-};
-
-export default ProductList;
+}

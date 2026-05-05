@@ -3,6 +3,7 @@ import { BottomNavigation, BottomNavigationAction, Box } from "@mui/material";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import EmailIcon from "@mui/icons-material/Email";
+import "../App.css";
 
 const Footer = () => {
   const handleExternalLink = (url) => {
@@ -20,9 +21,9 @@ const Footer = () => {
     >
       <BottomNavigation
         showLabels
+        className="red-brown"
         sx={{
           width: "100%",
-          backgroundColor: "green",
           textAlign: "center",
           marginTop: "auto",
           flexGrow: 1,
